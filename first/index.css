@@ -1,0 +1,23 @@
+body {
+    background-color: lightgray;
+}
+
+header {
+    background-color: dimgray;
+    height: 150px;
+}
+
+main,footer{
+    width: 40w;
+    margin: 0 15vw;
+}
+main {
+    background-color: white;
+    height:50vw;
+
+}
+
+footer {
+    background-color: black;
+    height: 100px;
+}
