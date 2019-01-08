@@ -1,0 +1,62 @@
+.top, .middle {
+width: 100%;
+
+}
+
+.top {
+    height: 200px;
+    border: 3px solid black;
+    display: flex;
+}
+
+.small-rectangle {
+    width: 35px;
+    height: 150px;
+    background-color: blueviolet;
+    margin: 45px 5px ;
+}
+
+.big-rectangle, .circle {
+    width: 300px;
+    height: 190px;
+    background-color: green;
+    margin: 5px 30px;
+
+}
+
+.circle {
+    width: 190px;
+    background-color: lightskyblue;
+    border-radius: 100px;
+    
+
+}
+
+/*Middle Section */
+
+.middle {
+    margin-top: 15px;
+    border: 3px dotted black;
+    height: 250px;;
+}
+
+.banner {
+    height: 175px;
+    background-color: khaki;
+    margin: 35px;
+    box-shadow: 5px 5px 8px black;
+}
+
+.bottom {
+    border: 1px solid silver;
+    width: 50%;
+    margin: 15px auto;
+    text-align: center;
+    padding: 100px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 7px silver;
+    color: navy;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    letter-spacing: 6px;
+}
